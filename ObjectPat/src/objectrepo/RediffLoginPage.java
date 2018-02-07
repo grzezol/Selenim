@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class RediffLoginPage {
+	String a;
 	
 	public RediffLoginPage(WebDriver driver) {
 		this.driver=driver;
